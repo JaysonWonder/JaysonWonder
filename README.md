@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaysonWonder
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning js & react
+- 🌱 I’m currently learning js & react, python, and more...
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me jaysonwonder@gmail.com
 
